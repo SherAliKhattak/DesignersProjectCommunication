@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "437431163790",
+    "project_id": "elabd-project",
+    "storage_bucket": "elabd-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437431163790:android:e35dc5c64db3cfdc7b22df",
+        "android_client_info": {
+          "package_name": "com.example.elabd_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437431163790-krbh0f1nkenf2a5vdassp4cnq1b5r0j1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3NRuC64n4khdEEKLS2MyLw7AtuOu2Ux8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437431163790-krbh0f1nkenf2a5vdassp4cnq1b5r0j1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
